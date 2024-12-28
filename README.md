@@ -48,7 +48,7 @@
 
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
   [![LinkedIn Badge](https://img.shields.io/badge/-Pablo_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablodsilva/)](https://www.linkedin.com/in/pablodsilva/)&nbsp;
-  [![Gmail Badge](https://img.shields.io/badge/-pablo.pds100@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:israellaines777@gmail.com)&nbsp;
+  [![Gmail Badge](https://img.shields.io/badge/-israellaines777@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:israellaines777@gmail.com)&nbsp;
 
 </div>
 
