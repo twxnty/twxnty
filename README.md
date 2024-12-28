@@ -22,16 +22,10 @@
 <div>
 
   ## 🧭 &nbsp;About Me
-
   - 📚 Information System student at UFPI.
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
-
   - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **Dart**, **Flutter** and **Python**.
-
   - 💬 Ask me about **any technology**.
-
-  - ⚡ Fun fact: I'm a <a href="https://en.wikipedia.org/wiki/Potato">potato</a>
-
   <br>
   
 
