@@ -42,35 +42,6 @@
   `¯\_(ツ)_/¯`
 </div>
 
-
-<div>
-
-  ## 📚 &nbsp;Currently studying
-
-  - Figma
-  - Microservices architecture
-  - Clean architecture
-  - TDD
-
-</div>
-
-
-<div>
-
-  ## 🛠️ &nbsp;My Tech Stacks
-
-  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
-  ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-0D1117?style=flat&logo=jupyter)&nbsp;
-  ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-</div>
-
 <div>
 
   ## 📫 &nbsp;My Contacts
