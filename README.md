@@ -22,10 +22,10 @@
 <div>
 
   ## 🧭 &nbsp;About Me
-  - 📚 Information System student at UFPI.
+  - 📚 Higher Technician in Network and Systems Administration from Educem Centres d'Ensenyament
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
-  - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **Dart**, **Flutter** and **Python**.
-  - 💬 Ask me about **any technology**.
+  - 🌱 IT Systems Administration Internship at the General Hospital of Granollers.
+  - 💬 I am an entry-level IT professional with a strong enthusiasm for learning about new technologies and continuously improving my existing skills. I am eager to grow and adapt in dynamic environments while contributing effectively to team and organizational goal.
   <br>
   
 
